@@ -1,5 +1,7 @@
 # 🔐 Gerador de Senhas Seguras
 
+   ![Gerador de Senhas funcionando](screenshot.png)
+
 Aplicativo de desktop com interface gráfica que gera senhas aleatórias e seguras, com opções personalizáveis. Feito em Python com Tkinter.
 
 ## ✨ Funcionalidades
@@ -48,6 +50,8 @@ gerador-senhas/
 O programa usa o módulo `secrets`, recomendado pela documentação oficial do Python para gerar senhas e tokens. Diferente do `random` comum, ele é apropriado para fins de segurança.
 
 ## 👤 Autor
+
+
 
 **William Santos** — automação e desenvolvimento
 
