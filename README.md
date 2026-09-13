@@ -1,6 +1,6 @@
 # 🔐 Gerador de Senhas Seguras
 
-   ![Gerador de Senhas funcionando](screenshot.png)
+   ![Gerador de Senhas funcionando](gerador_de_senhas.png)
 
 Aplicativo de desktop com interface gráfica que gera senhas aleatórias e seguras, com opções personalizáveis. Feito em Python com Tkinter.
 
